@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76393" started-at="2019-01-21T07:26:34Z" finished-at="2019-01-21T07:27:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76393" started-at="2019-01-21T07:26:34Z" finished-at="2019-01-21T07:27:50Z">
+      <class name="appium">
+        <test-method status="PASS" signature="salidoPOS()[pri:0, instance:appium@55d56113]" name="salidoPOS" duration-ms="76369" started-at="2019-01-21T12:56:34Z" finished-at="2019-01-21T12:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salidoPOS -->
+      </class> <!-- appium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
