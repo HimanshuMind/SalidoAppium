@@ -115,7 +115,7 @@ public void salidoPOS () throws InterruptedException, MalformedURLException
 			appium.findElement(By.name("PAY")).click();
 			appium.findElement(By.xpath("//XCUIElementTypeButton[@name=\"CLOSE\"]")).click();
 	
-			System.out.println("Salido App Launched successfully");
+			System.out.println("Salido  pos App Launched successfully");
 			
 			
 			
